@@ -1,0 +1,17 @@
+# Cross-notebook dependency inventory; historical Kaggle images remain canonical.
+deep-sort-realtime
+Faker
+google-generativeai
+joblib
+matplotlib
+missingno
+nltk
+numpy
+opencv-python
+pandas
+scikit-learn
+seaborn
+statsmodels
+torch
+tqdm
+ultralytics
